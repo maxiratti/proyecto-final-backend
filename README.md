@@ -2,11 +2,16 @@
 
 ---
 Proyecto realizado por **MAXIMILIANO CARLOS RATTI** para el curso de **Backend con Node JS** de **Talento Tech** 
+
 ---
+
+## Deploy
+
+Link del deploy a Vercel: **https://proyecto-final-backend-zeta.vercel.app/**
 
 Pasos realizados en el proyecto:
 
-1) crear tu propio proyecto de Firebase, 
+1) Crear proyecto de Firebase, 
 2) pegar credenciales en el `.env`, 
 3) instalar dependencias,
 4) probarlo con Postman.
